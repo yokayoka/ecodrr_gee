@@ -24,12 +24,13 @@ import streamlit as st
     - 計算結果の追加と名称の変更: [06_add_nd_def](https://code.earthengine.google.com/d6eac15a66f996443b5bbaa5c0f359bd)
     - 時系列データを用いて崩壊地の自動抽出に挑戦: [07_RF_2018Hiroshima](https://code.earthengine.google.com/80609dd5e2185c547aeef95aa4096d57)
     - データのエクスポートと再利用: [07_RF_2018Hiroshima](https://code.earthengine.google.com/80609dd5e2185c547aeef95aa4096d57)
+    - データのエクスポートと再利用（出力ファイル名修正版）: [07_RF_2018Hiroshima](https://code.earthengine.google.com/efd5b4cbed7f419b0d897d58c329d7f1)    
     - 出力したデータをQGISで見てみよう
     - ベトナム山岳地域での利用例: [08_Cart_west_YenBai](https://code.earthengine.google.com/fa970d0cab97d2502217034bf28f2038)
     - さらに学びを深めるために
     - JavaScript or Python?
 
-- 動画によるポイント解説
+- 動画によるポイント解説（コードエディターによる教師データのデジタイズ）
     - [教師付き分類](https://www.youtube.com/watch?v=VMab-HAXOpw)
     - 教師データの作成
 '''
